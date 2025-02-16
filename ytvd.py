@@ -1,5 +1,5 @@
 '''
-Author : Aditya Bagad
+Author : Akash Paul
 '''
 from tkinter import *
 from tkinter import filedialog
